@@ -29,7 +29,7 @@ Semantic Image Segmentation for Melanoma Detection using U-Net Architecture
 • Testing other models. <br />
 
 ## Links 
-[Project Report](https://drive.google.com/file/d/1AYf9sR1Auh-w-6Mz5BiYJheDroCbp3fa/view)
-[Presentation]([https://drive.google.com/file/d/1AYf9sR1Auh-w-6Mz5BiYJheDroCbp3fa/view](https://docs.google.com/presentation/d/1D5mxi_4DRx5Q2XhDgAYkF5acrmzD9kB_/edit?usp=sharing&ouid=102136323534911327924&rtpof=true&sd=true))
+[Project Report](https://drive.google.com/file/d/1AYf9sR1Auh-w-6Mz5BiYJheDroCbp3fa/view) <br />
+[Presentation]([https://drive.google.com/file/d/1AYf9sR1Auh-w-6Mz5BiYJheDroCbp3fa/view](https://docs.google.com/presentation/d/1D5mxi_4DRx5Q2XhDgAYkF5acrmzD9kB_/editusp=sharing&ouid=102136323534911327924&rtpof=true&sd=true))
 
 
